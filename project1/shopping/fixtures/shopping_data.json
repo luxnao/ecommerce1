@@ -1,0 +1,15 @@
+[
+  {
+    "model": "shopping.Product",
+    "pk": 1,
+    "fields": {
+      "category": "shoes",
+      "slug": "shoes/slug",
+      "name": "woman puma shoes",
+      "small_description": "woman puma shoes with 50% discount",
+      "quantity": 4,
+      "original_price": 456.0,
+      "selling_price": 789.0
+    }
+  }
+]
